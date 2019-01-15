@@ -1,5 +1,5 @@
-Hashie
 Sinatra
+Hashie
 Octokit
 Pry
 AwesomePrint
